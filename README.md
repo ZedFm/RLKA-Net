@@ -8,13 +8,13 @@
 
 ## Introduction 
 ### Architecture 
-![image](scripts\git_images\pic_arc.png) Overview of the architecture of RLKA-Net 
+![image](https://github.com/ZedFm/RLKA-Net/blob/main/scripts/git_images/pic_arc.png) Overview of the architecture of RLKA-Net 
 
 ### Recurrent Learning Stragety
-![image](scripts\git_images\RLS3.png) 
+![image](https://github.com/ZedFm/RLKA-Net/blob/main/scripts/git_images/RLS3.png) 
 
 ### Experiment Result on CVC09 Dataset (x4)
-![image](scripts\git_images\result.png)
+![image](https://github.com/ZedFm/RLKA-Net/blob/main/scripts/git_images/result.png)
 
 ## Training
 ### Dataset:
@@ -38,8 +38,8 @@ Before running this training command, you should prepared the paired FLIR infrar
 Part of the Pre-trained models is avaliable [here](https://drive.google.com/file/d/1phi_J5IOHf4vEk8V6vriuGsntSkiqYAG/view?usp=sharing) (Google Drive)
 
 ### Infrared SR Performance
-![image](scripts\git_images\result_pic1.png)
-![image](scripts\git_images\result_pic2.png)
+![image](https://github.com/ZedFm/RLKA-Net/blob/main/scripts/git_images/result_pic1.png)
+![image](https://github.com/ZedFm/RLKA-Net/blob/main/scripts/git_images/result_pic2.png)
 
 
 ## Acknowledgements
