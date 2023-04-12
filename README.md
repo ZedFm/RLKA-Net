@@ -35,7 +35,7 @@ BasicSR framework is utilized to train our RLKA-Net.
 Before running this training command, you should prepared the paired FLIR infrared images.
 
 ### Pre-trained models
-Part of the Pre-trained models is avaliable [here](https://drive.google.com/file/d/1phi_J5IOHf4vEk8V6vriuGsntSkiqYAG/view?usp=sharing) (Google Drive).
+Part of the Pre-trained models is avaliable [here](https://drive.google.com/file/d/1phi_J5IOHf4vEk8V6vriuGsntSkiqYAG/view?usp=sharing) (Google Drive)
 
 ### Infrared SR Performance
 ![image](git_images\result_pic1.png)
