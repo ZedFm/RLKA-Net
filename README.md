@@ -22,7 +22,15 @@
 - [OSU](http://vcipl-okstate.org/pbvs/bench/Data/01/download.html) 
 - [FLIR](https://www.flir.com/oem/adas/adas-dataset-form/)
 - [CVC09](http://adas.cvc.uab.es/elektra/enigma-portfolio/item-1/)
-- [LLVIP](https://bupt-ai-cz.github.io/LLVIP/) 
+- [LLVIP](https://bupt-ai-cz.github.io/LLVIP/)
+
+### Train/Test Dataset used in our work
+
+- [OSU](https://drive.google.com/file/d/1DHF059lclhAneT-gDA4CwVyRXFE2LYAZ/view?usp=sharing)
+- [FLIR](https://drive.google.com/file/d/16fD7Qa4LyxNBhZRHt2IvesPk_ASUDVMi/view?usp=sharing)
+- [CVC09](https://drive.google.com/file/d/1zgp3hi0ezjXufMw_SAf2TpR9oDjcdch1/view?usp=sharing)
+- [LLVIP]()
+
 ### Downsample
 Apply bicubic or lanczos downsample to obtain LR infrared images (Scale = 0.25 or 0.5).
 
